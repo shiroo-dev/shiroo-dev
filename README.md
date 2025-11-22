@@ -4,12 +4,12 @@ I'm a Machine Learning & Quant Researcher passionate about uncovering insights f
 
 ### 🧠 Tech Stack
 
-- 🐍 Machine Learning | Deep Learning | Quant Math
-- 🔢 NumPy | Pandas | Scikit-Learn | Statsmodels
-- 🧮 XGBoost | CatBoost | PyTorch
-- 📈 Backtrader
-- ⚙️ Git
-- 📊 Matplotlib | Seaborn
+Machine Learning | Deep Learning | Quant Math
+NumPy | Pandas | Scikit-Learn | Statsmodels
+XGBoost | CatBoost | PyTorch
+Backtrader
+Git
+Matplotlib | Seaborn
 
 I’m always experimenting with new ideas, digging into financial data, and improving alpha generation.  
 If you're into quant finance, ML research, or strategy automation — let’s connect!
